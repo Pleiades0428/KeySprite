@@ -1,0 +1,26 @@
+E:\My Projects\KeySprite\KeySprite\bin\Debug\KeySprite.exe
+E:\My Projects\KeySprite\KeySprite\bin\Debug\KeySprite.pdb
+E:\My Projects\KeySprite\KeySprite\obj\Debug\KeySprite.csprojResolveAssemblyReference.cache
+E:\My Projects\KeySprite\KeySprite\obj\Debug\KeySprite.Form1.resources
+E:\My Projects\KeySprite\KeySprite\obj\Debug\KeySprite.Properties.Resources.resources
+E:\My Projects\KeySprite\KeySprite\obj\Debug\KeySprite.csproj.GenerateResource.Cache
+E:\My Projects\KeySprite\KeySprite\obj\Debug\KeySprite.exe
+E:\My Projects\KeySprite\KeySprite\obj\Debug\KeySprite.pdb
+D:\Projects\KeySprite\KeySprite\obj\Debug\KeySprite.exe
+D:\Projects\KeySprite\KeySprite\obj\Debug\KeySprite.pdb
+D:\Projects\KeySprite\KeySprite\bin\Debug\KeySprite.exe
+D:\Projects\KeySprite\KeySprite\bin\Debug\KeySprite.pdb
+D:\Projects\KeySprite\KeySprite\obj\Debug\KeySprite.csprojResolveAssemblyReference.cache
+D:\Projects\KeySprite\KeySprite\obj\Debug\KeySprite.Form1.resources
+D:\Projects\KeySprite\KeySprite\obj\Debug\KeySprite.Properties.Resources.resources
+D:\Projects\KeySprite\KeySprite\obj\Debug\KeySprite.SpriteForm.resources
+D:\Projects\KeySprite\KeySprite\obj\Debug\KeySprite.csproj.GenerateResource.Cache
+E:\Projects-Net\KeySprite\KeySprite\obj\Debug\KeySprite.exe
+E:\Projects-Net\KeySprite\KeySprite\obj\Debug\KeySprite.pdb
+E:\Projects-Net\KeySprite\KeySprite\bin\Debug\KeySprite.exe
+E:\Projects-Net\KeySprite\KeySprite\bin\Debug\KeySprite.pdb
+E:\Projects-Net\KeySprite\KeySprite\obj\Debug\KeySprite.csprojResolveAssemblyReference.cache
+E:\Projects-Net\KeySprite\KeySprite\obj\Debug\KeySprite.Properties.Resources.resources
+E:\Projects-Net\KeySprite\KeySprite\obj\Debug\KeySprite.SpriteForm.resources
+E:\Projects-Net\KeySprite\KeySprite\obj\Debug\KeySprite.csproj.GenerateResource.Cache
+E:\Projects-Net\KeySprite\KeySprite\obj\Debug\KeySprite.MainForm.resources
